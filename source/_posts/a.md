@@ -6,7 +6,7 @@ categories:
 - [Cat1, Cat1.1]
 - [Cat2]
 - [Cat3]
-cover: /img/cover1.jpg
+cover: /static/cover/cover1.jpg
 ---
 
 
