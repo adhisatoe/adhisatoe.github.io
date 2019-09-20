@@ -6,6 +6,7 @@ categories:
 - [Cat1, Cat1.1]
 - [Cat2]
 - [Cat3]
+cover: /a/hexo.jpg
 ---
 
 
