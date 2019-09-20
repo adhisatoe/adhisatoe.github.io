@@ -6,7 +6,7 @@ categories:
 - [Cat1, Cat1.1]
 - [Cat2]
 - [Cat3]
-cover: {% asset_img hexo.jpg Hexo Images %}
+cover: /static/cover/cover1.jpg
 ---
 
 
@@ -16,5 +16,3 @@ cover: {% asset_img hexo.jpg Hexo Images %}
 {% endcodeblock %}
 
 {% asset_img hexo.jpg Hexo Images %}
-
-/static/cover/cover1.jpg
