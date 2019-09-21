@@ -11,7 +11,7 @@ Lately I've been very drained as a person, as a professional, and as a humble pi
 I had what known as **_"DESOLATION"_**,
 in this troubled time, i found almost no meaning toward life and its future.
 
-Over this past week, i've been practicing **_Spritual Exercise_** *(based on St. Ignatius from Loyola)* as an escape to my situation.
+Over this past week, i've been practicing **_Spiritual Exercise_** *(based on St. Ignatius from Loyola)* as an escape to my situation.
 
 So far, my emotions are like swinging in between bad and good mood.
 
