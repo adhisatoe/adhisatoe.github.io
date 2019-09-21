@@ -25,8 +25,9 @@ scrollbar: true
 
 # Gitalk 评论插件（https://github.com/gitalk/gitalk）
 gitalk:
+    enable: true
     # 是否自动展开评论框
-    autoExpand: false
+    autoExpand: true
     # 应用编号
     clientID: '4fad829eae8fee00533a'
     # 应用秘钥
@@ -38,7 +39,7 @@ gitalk:
     # Github名
     admin: ['adhisatoe']
     # Ensure uniqueness and length less than 50
-    id: window.location.pathname
+    id: url
     # Facebook-like distraction free mode
     distractionFreeMode: true
 
