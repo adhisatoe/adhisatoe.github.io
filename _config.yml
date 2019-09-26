@@ -80,10 +80,9 @@ theme: diaspora
 deploy:
   type:
 
-
 # Lazyload Image
 lazyload:
-  enable: true 
+  enable: false 
   onlypost: false
   loadingImg: /images/loading.gif
 
