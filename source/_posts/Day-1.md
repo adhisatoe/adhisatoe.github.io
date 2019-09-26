@@ -3,6 +3,7 @@ author: Adhi Dazz
 date: 2019-09-21 19:17:33
 categories : [spiritual]
 tags:
+cover: /static/cover/cover1.jpg
 ---
 Day +1 on my way to recovery.
 
